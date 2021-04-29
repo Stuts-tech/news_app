@@ -1,4 +1,4 @@
 # newsapp
 
-A flutter application with implements REST API
+A flutter application which implements REST API
 
